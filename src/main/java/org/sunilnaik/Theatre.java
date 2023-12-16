@@ -23,7 +23,7 @@ public class Theatre {
             System.out.println();
         }
     }
-
+    //gaanesh
     boolean bookTicket(int row, int col) {
         if (seats[row][col] == 0) {
             seats[row][col] = 1;
