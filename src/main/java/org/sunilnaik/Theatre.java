@@ -23,7 +23,7 @@ public class Theatre {
             System.out.println();
         }
     }
-    /// new commit
+    /// new commit /// merged confict
 
     boolean bookTicket(int row, int col) {
         if (seats[row][col] == 0) {
